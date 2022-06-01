@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA6D26E228478EF300F49E01 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FA6D26E128478EF300F49E01 /* .gitignore */; };
 		FAB2638A2729895E00A42D88 /* NWApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB2637A2729895A00A42D88 /* NWApp.swift */; };
 		FAB2638B2729895E00A42D88 /* NWApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB2637A2729895A00A42D88 /* NWApp.swift */; };
 		FAB2638C2729895E00A42D88 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB2637B2729895A00A42D88 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA6D26E128478EF300F49E01 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		FAB2637A2729895A00A42D88 /* NWApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NWApp.swift; sourceTree = "<group>"; };
 		FAB2637B2729895A00A42D88 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAB2637C2729895E00A42D88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		FAB263742729895A00A42D88 = {
 			isa = PBXGroup;
 			children = (
+				FA6D26E128478EF300F49E01 /* .gitignore */,
 				FAB263792729895A00A42D88 /* Shared */,
 				FAB263882729895E00A42D88 /* macOS */,
 				FAB263822729895E00A42D88 /* Products */,
@@ -157,6 +160,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA6D26E228478EF300F49E01 /* .gitignore in Resources */,
 				FAB2638E2729895E00A42D88 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
